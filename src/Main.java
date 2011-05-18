@@ -1,3 +1,5 @@
+//Entry Class
+
 import java.awt.Container;
 import javax.swing.JFrame;
 
